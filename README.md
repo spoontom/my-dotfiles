@@ -1,1 +1,1 @@
-gentoo linux dotfiles
+ linux dotfiles
